@@ -1,0 +1,167 @@
+header {
+    background-color: black;
+    font-family: "Oswald", sans-serif;
+  }
+  header h1 {
+    text-align: center;
+    color: white;
+    letter-spacing: 3px;
+  }
+  header ul {
+    margin: 0;
+    list-style-type: none;
+    color: white;
+    text-align: center;
+  }
+  header li {
+    display: inline-block;
+    margin: 20px;
+  }
+  header a {
+    color: white;
+    text-decoration: none;
+    letter-spacing: 4px;
+    font-size: large;
+    font-weight: bold;
+  }
+  header a:hover {
+    color: black;
+    border-style: dashed;
+    border-color: black;
+    background-color: white; 
+  }
+  #aMusik {
+    color: black;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-size: bold;
+    border-style: dashed;
+    border-color: black;
+    background-color: white;
+  }
+.minMusik h1 {
+  letter-spacing: 4px;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-weight: bold;
+}
+.minMusik h3 {
+    letter-spacing: 4px;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-weight: bold;
+  }
+.minMusik img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 40%;
+}
+.minMusik p {
+  color: black;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: large;
+}
+.bilderPåSynthar {
+    background-color: black;
+}
+#VSTs {
+  color: white;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: xx-large;
+  letter-spacing: 2px;
+  padding-top: 20px;
+}
+.bilderPåSynthar ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+.bilderPåSynthar p {
+  color: white;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: large;
+}
+.textUnderSynthbild {
+    padding-right: 40%;
+}
+.bilderPåSynthar h3 {
+  color: white;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: large;
+  letter-spacing: 2px;
+}
+.bilderPåSynthar h1 {
+  color: white;
+  font-family: "Oswald", sans-serif;
+  font-size: large;
+  letter-spacing: 2px;
+}
+.bilderPåSynthar img {
+  max-width: 30vw;
+  max-height: 20vw;
+}
+.minaLåtar ul {
+    display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+.minaLåtar h1 {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: xx-large;
+  letter-spacing: 2px;
+  text-decoration: underline;
+}
+.minaLåtar iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.minaLåtar p {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: large;
+}
+footer {
+    padding: 20px;
+    background-color: black;
+    text-align: center;
+  }
+  footer p {
+    color: white;
+    font-family: "Oswald", sans-serif;
+    font-size: bold;
+  }
+  footer a{
+    color: white;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+   
+  }
+  footer a:hover {
+    color: black;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-size: bold;
+    border-style: dashed;
+    border-color: black;
+    background-color: white;
+  }

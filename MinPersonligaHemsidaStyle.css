@@ -1,0 +1,158 @@
+header {
+  background-color: black;
+  font-family: "Oswald", sans-serif;
+}
+header h1 {
+  text-align: center;
+  color: white;
+  letter-spacing: 3px;
+}
+header ul {
+  margin: 0;
+  list-style-type: none;
+  color: white;
+  text-align: center;
+}
+header li {
+  display: inline-block;
+  margin: 20px;
+}
+header a {
+  color: white;
+  text-decoration: none;
+  letter-spacing: 4px;
+  font-size: large;
+  font-weight: bold;
+}
+header a:hover {
+  color: black;
+  border-style: dashed;
+  border-color: black;
+  background-color: white; 
+}
+.omPetter {
+  background-color: black;
+  padding: 20px;
+}
+
+.omPetter h1 {
+  color: white;
+  letter-spacing: 4px;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-weight: bold;
+}
+.bilder {
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+}
+.bilder img {
+  width: 20%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+article p {
+  color: white;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+}
+
+table {
+  color: white;
+  flex-direction: row;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Oswald", sans-serif;
+  font-size: large;
+  letter-spacing: 2px;
+}
+tr th {
+  border: 1px solid White;
+}
+.Fritid h1 {
+  color: black;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: bold;
+}
+
+.Fritid p {
+  color: black;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: large;
+}
+.bilderpåspel ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+.bilderpåspel p {
+  padding-right: 40%;
+}
+.bilderpåspel img {
+  max-width: 30vw;
+  max-height: 20vw;
+}
+.segling h1 {
+  color: black;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: bold;
+}
+.segling h2 {
+  color: black;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: bold;
+}
+.segling p {
+  color: black;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: large;
+}
+.segling img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+}
+
+footer {
+  padding: 20px;
+  background-color: black;
+  text-align: center;
+}
+footer p {
+  color: white;
+  font-family: "Oswald", sans-serif;
+  font-size: bold;
+}
+
+footer a{
+  color: white;
+  letter-spacing: 4px;
+  text-decoration: none;
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+ 
+}
+footer a:hover {
+  color: black;
+  letter-spacing: 4px;
+  text-decoration: none;
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: bold;
+  border-style: dashed;
+  border-color: black;
+  background-color: white;
+}
+
