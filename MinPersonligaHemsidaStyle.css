@@ -90,6 +90,8 @@ tr th {
 }
 .bilderpåspel p {
   padding-right: 40%;
+  font-family: "Oswald", sans-serif;
+  font-size: large;
 }
 .bilderpåspel img {
   max-width: 30vw;
